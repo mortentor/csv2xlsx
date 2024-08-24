@@ -61,7 +61,7 @@ the latest versions of
 * Safari (Webkit)
 
 ## demo
-check out [_demo/demo.html](https://raw.githack.com/netas-ch/csv2xlsx/main/_demo/demo.html) for a simple demo
+check out [_demo/demo.html](https://raw.githack.com/mortentor/csv2xlsx/main/_demo/demo.html) for a simple demo
 
 ## license
 Copyright © 2024 Lukas Buchs, [netas.ch](https://netas.ch), [Apache License, Version 2.0](./LICENSE).
